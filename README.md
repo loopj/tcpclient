@@ -4,6 +4,8 @@ Arduino's [`EthernetClient`](https://www.arduino.cc/en/Reference/EthernetClient)
 
 This library provides a `TCPClient` class, which allows you to make TCP requests in a super simple way.
 
+Works great when porting apps or libraries from Arduino or Particle projects to Linux or WiringPi.
+
 ## Usage
 
 ```c++
