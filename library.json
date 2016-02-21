@@ -1,0 +1,12 @@
+{
+    "name": "TCPClient",
+    "keywords": "tcp, client",
+    "description": "Arduino and Particle style TCPClient to use when building Linux apps",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/loopj/tcpclient.git"
+    },
+    "frameworks": ["wiringpi"],
+    "platforms": ["linux_arm", "linux_i686", "linux_x86_64", "native"]
+}
